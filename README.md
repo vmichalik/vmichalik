@@ -1,10 +1,10 @@
 # Vijay
 
-Product manager in crypto. Lisbon.
+Product manager in crypto and AI.
 
 Working at [Nava AI](https://x.com/navaai). Before that, [Superfluid](https://superfluid.finance) and [ConsenSys](https://consensys.io).
 
-Here you can find my side projects, tools and prototypes.
+Here you can find my public side projects, tools and prototypes.
 
 ## Projects
 
